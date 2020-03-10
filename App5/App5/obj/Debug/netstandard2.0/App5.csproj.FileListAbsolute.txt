@@ -1,0 +1,15 @@
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App5.dll
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+C:\my_projects\App5\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+C:\my_projects\App5\App5\App5\bin\Debug\netstandard2.0\App5.dll
+C:\my_projects\App5\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+C:\my_projects\App5\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+C:\my_projects\App5\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App5.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Go to page1" Clicked="gotopage1" />
+            <Button Text="Go to page2" Clicked="gotopage2" />
+            <Button Text="Back" Clicked="goback" />
+            <Button Text="Go to first Page1" Clicked="goback2" />
+            <Button Text="Go to last Page1" Clicked="goback3" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
